@@ -45,20 +45,20 @@ Through this intensive training, I gained hands-on experience with real-world pr
 
 Here are a few projects I've worked on during my training:
 
-📆 Event Booking App
-MERN full-stack app with calendar integration for booking and managing events.
+📆 Event Booking App(MERN full-stack)␣␣ 
+app with calendar integration for booking and managing events.
 
-📋 Task Manager
+📋 Task Manager␣␣
 A PHP & MySQL-based CRUD application for managing to-do items.
 
-🛍️ Mini E-commerce Site
+🛍️ Mini E-commerce Site␣␣
 React frontend that fetches and displays products using a mock API.
 
-📦 Inventory Management System (React.js)
+📦 Inventory Management System (React.js)␣␣
 A frontend application for managing inventory items including product creation, updates, and filtering, built with React and custom state management.
 
-🎭 TheGreenRoom (MERN Stack)
-A full-stack platform that connects artists and audiences with venues for live performances across various genres. Includes user authentication, role-based access, profile creation, and calendar-based venue booking.
+🎭 TheGreenRoom (MERN Stack)␣␣
+A full-stack platform that connects artists and audiences with venues for live performances across various genres. Includes user authentication, role-based access, profile creation, and calendar-based venue booking.␣␣
 https://the-greenroom.onrender.com/#/
 
 ## 📫 Contact Me
